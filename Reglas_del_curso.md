@@ -33,7 +33,7 @@ Evaluación corta de fin de unidad. Serán en horario de auxiliar. Estarán dise
 - Si no llegan a inscribirse al lab, deberán entregar solos (para evitar que haya alguien que no trabaje).
 - 1 semana de plazo para entregar. No se consideran atrasos.
 - Tienen la posibilidad de usar cualquier material del curso que deseen.
-
+- Se eliminará el laboratorio con la peor nota.
 
 ### Tareas
 
@@ -42,7 +42,7 @@ Constan de un informe (muy breve) y experimentación en código, todo contenido 
 
 - Grupos de dos.
 - 2 semanas de plazo. Atrasos: 1 punto de descuento por día.
-- Días bonus: 5 días hábiles para atrasarse sin penalización y distribuibles como ustedes quieran.
+- Días bonus: 7 días para atrasarse sin penalización y distribuibles como ustedes quieran.
 - Deberán crear un repositorio (privado) para cada tarea y usar git para controlar versiones.
 - Informe: Intro, problema a resolver, datos, modelo propuesto, experimentos, análisis de los resultados y conclusión.
 - Tienen la posibilidad de usar cualquier material del curso que deseen.
