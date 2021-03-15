@@ -46,7 +46,7 @@ Nota: El calendario está sujeto a cambios.
 
 ### Semana 5:
 
-- **Cátedra 1**: Introducción a scikit-learn, clustering y reducción de dimensionalidad. Visualización.
+- **Cátedra 1**: Introducción a scikit-learn, clustering y reducción de dimensionalidad. Visualización usando los métodos anteriores..
   
 - **Cátedra 2**: Selección y extracción de características. Normalización de datos. Pipelines. 
 
@@ -57,9 +57,9 @@ Nota: El calendario está sujeto a cambios.
 
 ### Semana 6
 
-- **Cátedra 1**: Modelos de clasificación en scikit-learn 1 (knn, árboles, naive bayes).(svm, mlp).
+- **Cátedra 1**: Modelos de clasificación en scikit-learn 1: KNN, árboles de decisión, Naive bayes.
 
-- **Cátedra 2**: Modelos de clasificación en scikit-learn 2 
+- **Cátedra 2**: Modelos de clasificación en scikit-learn 2: SVM, MLP.
   
 - **Auxiliar**: Libre.
 

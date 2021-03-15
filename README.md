@@ -1,4 +1,4 @@
-# MDS7202
+# MDS7202 - 2021-1
 Repositorio del curso Laboratorio de Programación Científica para Ciencia de Datos
 
 - Profesor: [Pablo Badilla](https://github.com/pbadillatorrealba)
