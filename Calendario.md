@@ -16,9 +16,9 @@ Nota: El calendario está sujeto a cambios.
 
 ### Semana 2:
 
-- **Cátedra 1**: Python para ciencia de los datos 1: sintaxis, variables, operadores, tipos de datos, condicionales, ciclos, excepciones.
+- **Cátedra 1**: Python para ciencia de los datos 1: sintaxis básica, variables, operadores, tipos de datos, condicionales, ciclos.
   
-- **Cátedra 2**:  Python para ciencia de los datos 2:, OOP programación funcional, librerías itertools, functools.  
+- **Cátedra 2**:  Python para ciencia de los datos 2: funciones, scopes, docstrings, .  
 
 - **Auxiliar**: Libre.
 
@@ -27,14 +27,15 @@ Nota: El calendario está sujeto a cambios.
 
 ### Semana 3:
 
+- **Cátedra 1**: Python para ciencia de los datos 3: Programación orientada a objetos, herencia, modulos. 
 
-- **Cátedra 1**: Introducción a numpy la computación científica con Numpy. Breve introducción a Scipy. 
+- **Cátedra 1**: Librerías y útiles de Python. Introducción a numpy la computación científica con Numpy. Breve introducción a Scipy. 
   
-- **Cátedra 2**: Pandas 2: Pandas 1: Introducción a datos tabulares y pandas. I/O, Indexación y operaciones básicas.
 
 - **Auxiliar**: Lab 1.
 
 ### Semana 4: 
+- **Cátedra 2**: Pandas 2: Pandas 1: Introducción a datos tabulares y pandas. I/O, Indexación y operaciones básicas.
 
 - **Cátedra 1**: Merge, join y concatenación. Reshaping. Manejo de strings. Group-by. Trabajo con datos incompletos.  
   
