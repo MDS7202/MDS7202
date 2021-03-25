@@ -1,6 +1,6 @@
 # Reglas del curso
 
-- Curso Online. Todas las cátedras seran tutoriales de tecnologías aplicadas a data science.
+- Curso Online. Todas las cátedras seran tutoriales de tecnologías aplicadas a Data Science.
 - Las evaluaciones serán laboratorios en horario de auxiliar y tareas.
 - Como en un entorno real, la colaboración es fundamental para resolver problemas. Por lo mismo, todas las evaluaciones serán grupales. (Aún está por definir el tamaño de los equipos). 
 - El objetivo es que aprendan a medida que implementan. Por lo mismo, está prohibida la copia. 
