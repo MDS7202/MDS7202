@@ -2,154 +2,51 @@
 
 Nota: El calendario está sujeto a cambios.
 
-## Unidad 1: Introducción a Python en ciencia de datos
 
----
-
-### Semana 1:
-
-- **Cátedra 1**: Introducción al curso y a la ciencia de los datos. 
-  
-- **Cátedra 2**:  Control de versiones (git). Python y ecosistema: gestores de paquetes y de ambientes, y algunas métodologías.
-  
-- **Auxiliar**: Libre.
-
-### Semana 2:
-
-- **Cátedra 1**: Python para ciencia de los datos 1: sintaxis básica, variables, operadores, tipos de datos, condicionales, ciclos.
-  
-- **Cátedra 2**:  Python para ciencia de los datos 2: funciones, scopes, docstrings, .  
-
-- **Auxiliar**: Libre.
-
-## Unidad 2: Manejo de datos y visualización - 3 semanas
----
-
-### Semana 3:
-
-- **Cátedra 1**: Python para ciencia de los datos 3: Programación orientada a objetos, herencia, modulos. 
-
-- **Cátedra 1**: Librerías y útiles de Python. Introducción a numpy la computación científica con Numpy. Breve introducción a Scipy. 
-  
-
-- **Auxiliar**: Lab 1.
-
-### Semana 4: 
-- **Cátedra 2**: Pandas 2: Pandas 1: Introducción a datos tabulares y pandas. I/O, Indexación y operaciones básicas.
-
-- **Cátedra 1**: Merge, join y concatenación. Reshaping. Manejo de strings. Group-by. Trabajo con datos incompletos.  
-  
-- **Cátedra 2**: Continuación pandas. Visualización con métodos nativos de pandas. Visualizaciones con plotly
-
-- **Auxiliar**: Libre.
-
-- **Publicación tarea 1**
-
-### Semana 5:
-
-- **Cátedra 1**: Introducción a scikit-learn, clustering y reducción de dimensionalidad. Visualización usando los métodos anteriores..
-  
-- **Cátedra 2**: Selección y extracción de características. Normalización de datos. Pipelines. 
-
-- **Auxiliar**: Lab 2.
-
-## Unidad 3: Computación de alto rendimento en modelos de aprendizaje automático - 4 semanas
----
-
-### Semana 6
-
-- **Cátedra 1**: Modelos de clasificación en scikit-learn 1: KNN, árboles de decisión, Naive bayes.
-
-- **Cátedra 2**: Modelos de clasificación en scikit-learn 2: SVM, MLP.
-  
-- **Auxiliar**: Libre.
-
-- **Entrega Tarea 1**
-
-### Semana 7
-
-- **Cátedra 1**: Selección de modelos con Grid search.
-  
-- **Cátedra 2**: TBD
-
-- **Auxiliar**: Libre.
-  
-- **Publicación Tarea 2**
-
-
-### Semana 8
-
-- **Cátedra 1**: Scikit, spacy y gensim para procesamiento de texto.
-  
-- **Cátedra 2**: Clasificación de texto usando scikit, spacy y gensim.
-  
-- **Auxiliar**: Libre.
-
-
-### Semana 9
-- **Cátedra 1**: Pomergranate
-  
-- **Cátedra 2**: Multiprocessing y Dask
-
-- **Auxiliar**: Lab 3.
-
-- **Publicación Entrega tarea 2**
-
----
-
-## Unidad 4: Deep Learning, programación probabilística y explicabilidad - 3 semanas
-
-### Semana 10
-
-- **Cátedra 1**: Pytorch: Tensores, Datasets and DataLoaders, Definición de modelos simples.
-  
-- **Cátedra 2**: Pytorch 2
-  
-- **Auxiliar**: Libre.
-
-### Semana 11
-
-- **Cátedra 1**: Pytorch 3.
-  
-- **Cátedra 2**: Pyro
-  
-- **Auxiliar**: Lab 4.
-
-- **Publicación tarea 3**
-  
-### Semana 12
-
-- **Cátedra 1**: Métodos de explicabilidad de modelos.
-  
-- **Cátedra 2**: Métodos de explicabilidad de modelos.
-
-- **Auxiliar**: Libre.
-
----
-
-
-## Unidad 5: Despliegue en la Nube - 3 semanas
-
-### Semana 13
-- **Cátedra 1**: Bokeh y Dash
-  
-- **Cátedra 2**: Continuación Bokeh y Dash. Docker
-  
-- **Auxiliar**: Libre.
-
-- **Entrega tarea 3**
-  
-- **Publicación tarea 4**
-
-### Semana 14
-
-- Despliegue de un modelo ML 1. Arquitectura cliente servidor y microservicios. Flask.
-  
-- **Cátedra 2**: Libre.
-  
-- **Auxiliar**: Lab 5.
-
-
-## Semana de exámenes:
-
-- **Entrega tarea 4**.
+| Semana | Fecha | Tema | Evaluación |
+|-|-|-|-|
+| 1 | 15-mar | Introducción al curso y a la ciencia de los datos.  |   |
+| 1 | 17-mar | Jupyter Notebooks, Control de versiones (git)   y algunas métodologías de trabajo. |  |
+| 1 | 19-mar | Libre |  |
+| 2 | 22-mar | Python para ciencia de los datos 1: Sintaxis básica, variables, operadores, tipos de datos, condicionales, ciclos. |   |
+| 2 | 24-mar | Python para ciencia de los datos 2: Funciones, scopes, testing, docstrings.  |  |
+| 2 | 26-mar | Lab 0 - Opcional/Sin Nota.  |  |
+| 3 | 29-mar | Python para ciencia de los datos 3: Programación orientada a objetos, herencia, modulos.  |   |
+| 3 | 31-mar | Librerías y útiles de Python. Introducción a numpy la computación científica con Numpy. Breve introducción a Scipy.  |  |
+| 3 | 02-abr | Feriado |  |
+|  Receso |  |  |  |
+| 4 | 12-abr | Pandas 1: Introducción a datos tabulares y pandas. I/O, Indexación y operaciones básicas. |   |
+| 4 | 14-abr | Pandas 2: Merge, join y concatenación. Reshaping. Manejo de strings. Group-by. Trabajo con datos incompletos. Visualizaciones |  |
+| 4 | 16-abr | Lab 1. | Publicación Tarea 1 |
+| 5 | 19-abr | Análisis exploratorio de Datos con Pandas. |   |
+| 5 | 21-abr | Introducción a scikit-learn, clustering y reducción de dimensionalidad. Visualización usando los métodos anteriores.. |  |
+| 5 | 23-abr | Lab 2. |  |
+| 6 | 26-abr | Modelos de aprendizaje automático   en scikit-learn 1: KNN, árboles de decisión, Naive bayes. |   |
+| 6 | 28-abr | Modelos de aprendizaje automático   en scikit-learn 2: SVM, MLP. |  |
+| 6 | 30-abr | Libre | Entrega Tarea 1. Publicación Tarea 2 |
+| 7 | 03-may | Selección de modelos en scikit usando   con Grid search. |   |
+| 7 | 05-may | Scikit, spacy y gensim para procesamiento de texto |  |
+| 7 | 07-may | Libre |  |
+| 8 | 10-may | Tareas de   clasificación de texto usando scikit, spacy y gensim |   |
+| 8 | 12-may | Pomergranate |  |
+| 8 | 14-may | Libre | Entrega Tarea 2. |
+| 9 | 17-may | Pomergranate 2 |   |
+| 9 | 19-may | Multiprocessing y Dask |  |
+| 9 | 21-may | Feriado |  |
+| 10 | 24-may | Pytorch: Tensores, Datasets and DataLoaders, definición de modelos simples. |   |
+| 10 | 26-may | Pytorch 2 |  |
+| 10 | 28-may | Lab 3. |  |
+| 11 | 31-may | Pytorch 3 |   |
+| 11 | 02-jun | Pyro |  |
+| 11 | 04-jun | Libre | Publicación tarea 4 |
+| 12 | 07-may | Métodos de explicabilidad de modelos. |   |
+| 12 | 09-jun | TBA. |  |
+| 12 | 11-may | Lab 4. |  |
+|  Receso |  |  |  |
+| 13 | 21-jun | Bokeh y Dash. Docker |   |
+| 13 | 23-jun | Despliegue de un modelo ML 1. Arquitectura cliente servidor y microservicios. Flask. |  |
+| 13 | 25-jun | Libre | Entrega tarea 3.Publicación tarea 4 |
+| 14 | 28-jun | Feriado |   |
+| 14 | 30-jun | Despliegue 2. Cierre del Curso. |  |
+| 14 | 01-jul | Libre |  |
+| Exámenes |   |   | Entrega tarea 4 |
