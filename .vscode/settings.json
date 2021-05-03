@@ -1,3 +1,4 @@
 {
-    "jupyter.jupyterServerType": "remote"
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "C:\\Users\\pablo\\miniconda3\\python.exe"
 }
