@@ -49,4 +49,4 @@ Nota: El calendario está sujeto a cambios.
 | 14 	| 05-jul 	|  Despliegue 2. 	|  Entrega tarea 2. Publicación Tarea   3. 	|
 | 14 	| 07-jul 	| TBA. Cierre del Curso 	|    	|
 | 14 	| 09-jul 	|  Libre  	| Entrega Lab 5. 	|
-|  Exámenes  	|     	|     	|  Entrega tarea 3 	|
+|  Exámenes  	|   12 Julio a 24 de Julio  	|     	|  Entrega tarea 3 	|
