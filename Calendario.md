@@ -33,11 +33,11 @@ Nota: El calendario está sujeto a cambios.
 | 9 	| 24-may 	|  Selección de atributos. Selección   de modelos en scikit usando Grid search.  	|  Entrega Tarea 1. 	|
 | 9 	| 26-may 	|  Scikit, spacy y gensim para   procesamiento de texto  	|    	|
 | 9 	| 28-may 	|  	| Lab 3. 	|
-| 10 	| 31-may 	|  Pomergranate 	|  	|
-| 10 	| 02-jun 	|  Optimización de código, JIT, Dask,   JAX 	|    	|
+| 10 	| 31-may 	|  Horario de Consultas 	|  	|
+| 10 	| 02-jun 	|   	|   Intro a modelos probabilísticos con pymc3 	|
 | 10 	| 04-jun 	|  	| Entrega Lab 3. 	|
-| 11 	| 07-jun 	| Paralelismo y Corutinas 	|  	|
-| 11 	| 09-jun 	|  TBA.  	|    	|
+| 11 	| 07-jun 	|  	|  Optimización de código, JIT, Dask,   JAX	|
+| 11 	| 09-jun 	|  Paralelismo y Corutinas  	|    	|
 | 11 	| 11-jun 	|  	|  Lab 4. 	|
 | 12 	| 14-jun 	|  Pytorch: Tensores, Datasets and   DataLoaders, definición de modelos simples.  	|     	|
 | 12 	| 16-jun 	| Pytorch 2 	|    	|
