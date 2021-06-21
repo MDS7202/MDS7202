@@ -34,19 +34,19 @@ Nota: El calendario está sujeto a cambios.
 | 9 	| 26-may 	|  Scikit, spacy y gensim para   procesamiento de texto  	|    	|
 | 9 	| 28-may 	|  	| Lab 3. 	|
 | 10 	| 31-may 	|  Horario de Consultas 	|  	|
-| 10 	| 02-jun 	|   	|   Intro a modelos probabilísticos con pymc3 	|
+| 10 	| 02-jun 	|    Intro a modelos probabilísticos con pymc3	|   	|
 | 10 	| 04-jun 	|  	| Entrega Lab 3. 	|
-| 11 	| 07-jun 	|  	|  Optimización de código, JIT, Dask,   JAX	|
-| 11 	| 09-jun 	|  Paralelismo y Corutinas  	|    	|
+| 11 	| 07-jun 	|  Benchmark y Optimización de código	|  	|
+| 11 	| 09-jun 	|  Numba y JIT, Paralelismo y Corutinas, Dask y Joblib  	|    	|
 | 11 	| 11-jun 	|  	|  Lab 4. 	|
-| 12 	| 14-jun 	|  Pytorch: Tensores, Datasets and   DataLoaders, definición de modelos simples.  	|     	|
-| 12 	| 16-jun 	| Pytorch 2 	|    	|
-| 12 	| 18-jun 	|  	|  Publicación Tarea 2. Entrega Lab   4. 	|
-| 13 	| 21-jun 	|  Bokeh y Dash. Docker  	|     	|
-| 13 	| 23-jun 	|  Despliegue de un modelo ML 1.   Arquitectura cliente servidor y microservicios. Flask.  	|    	|
-| 13 	| 25-jun 	|  	| Lab 5.  	|
+| 12 	| 14-jun 	|  Intro a Redes Neuronales.   	|     	|
+| 12 	| 16-jun 	| Pytorch: Tensores, Datasets and   DataLoaders, definición de modelos simples.	|    	|
+| 12 	| 18-jun 	|  	|   	|
+| 13 	| 21-jun 	|  Feriado    	|     Publicación Tarea 2.	|
+| 13 	| 23-jun 	|   Arquitectura cliente servidor y microservicios. Flask.  	|   	|
+| 13 	| 25-jun 	| |Entrega Lab   4.  Lab 5.  	|
 | Receso  	| Semana 28 Junio 	|  	|  	|
-| 14 	| 05-jul 	|  Despliegue 2. 	|  Entrega tarea 2. Publicación Tarea   3. 	|
-| 14 	| 07-jul 	| TBA. Cierre del Curso 	|    	|
-| 14 	| 09-jul 	|  Libre  	| Entrega Lab 5. 	|
-|  Exámenes  	|   12 Julio a 24 de Julio  	|     	|  Entrega tarea 3 	|
+| 14 	| 05-jul 	|  Contenedores, Despliege y Nube   	|  Entrega tarea 2. Publicación Tarea   3. 	|
+| 14 	| 07-jul 	| Dashboard con Dash.	|    	|
+| 14 	| 09-jul 	|  Cierre del curso - Sesión de Retroalimentación  ☕.	| Entrega Lab 5. 	|
+|  Exámenes  	|   12 Julio a 24 de Julio  	|     	|  Entrega tarea 2. Publicación Tarea 3 |
