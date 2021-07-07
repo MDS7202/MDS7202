@@ -1,0 +1,4 @@
+scikit-learn
+fastapi
+uvicorn[standard]
+mysql-connector-python
