@@ -49,4 +49,4 @@ Nota: El calendario está sujeto a cambios.
 | 14 	| 05-jul 	|  Contenedores, Despliege y Nube   	|  Entrega tarea 2. Publicación Tarea   3. 	|
 | 14 	| 07-jul 	| Dashboard con Dash.	|    	|
 | 14 	| 09-jul 	|  Cierre del curso - Sesión de Retroalimentación  ☕.	| Entrega Lab 5. 	|
-|  Exámenes  	|   12 Julio a 24 de Julio  	|     	|  Entrega tarea 2. Publicación Tarea 3 |
+|  Exámenes  	|   12 Julio a 31 de Julio  	|     	|  Lab 6 |
