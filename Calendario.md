@@ -2,51 +2,52 @@
 
 Nota: El calendario está sujeto a cambios.
 
-|  Semana  	|  Fecha  	|  Tema  	|  Evaluación  	|
-|-	|-	|-	|-	|
-| 1 	| 15-mar 	|  Introducción al curso y a la   ciencia de los datos.   	|     	|
-| 1 	| 17-mar 	|  Jupyter Notebooks, Control de   versiones (git)   y algunas   métodologías de trabajo.  	|    	|
-| 1 	| 19-mar 	|  	|    	|
-| 2 	| 22-mar 	|  Python para ciencia de los datos   1: Sintaxis básica, variables, operadores, tipos de datos, condicionales,   ciclos.  	|     	|
-| 2 	| 24-mar 	|  Python para ciencia de los datos   2: Funciones, scopes, testing, docstrings.   	|    	|
-| 2 	| 26-mar 	|  	|  Lab 0 - Opcional/Sin Nota.   	|
-| 3 	| 29-mar 	|  Python para ciencia de los datos   3: Programación orientada a objetos, herencia, modulos.   	|     	|
-| 3 	| 31-mar 	|  Librerías y útiles de Python.   Introducción a numpy la computación científica con Numpy. Breve introducción   a Scipy.   	|    	|
-| 3 	| 02-abr 	|  	|    	|
-|     Receso  	| Semana 5 de Abril 	|    	|    	|
-| 4 	| 12-abr 	|  Pandas 1: Introducción a datos   tabulares y pandas. I/O, Indexación y operaciones básicas.  	|     	|
-| 4 	| 14-abr 	|  Pandas 2: Reorganización y   Concatenación de Datos, Agrupaciones. 	|    	|
-| 4 	| 16-abr 	|  	|  Lab 1.  	|
-| 5 	| 19-abr 	| Pandas 3: Merge. Datos Categóricos y Temporales 	|     	|
-| 5 	| 21-abr 	|  Análisis exploratorio de Datos con   Pandas.  	|  	|
-| 5 	| 23-abr 	|  	|  Lab 2.  	|
-| 6 	| 26-abr 	| Introducción a scikit-learn: Preprocesamiento y Pipelines 	| Entrega Lab 1 	|
-| 6 	| 28-abr 	| Trabajo con datos faltantes usando scikit-learn. 	|    	|
-| 6 	| 30-abr 	|  	| Entrega Lab 2. 	|
-| 7 	| 03-may 	| Detección de outliers univariado y multivariado y Visualización en baja   dimensionalidad usando TSNE y UMAP. 	| Publicación Tarea 1  	|
-| 7 	| 05-may 	| Clustering 	|    	|
-| 7 	| 07-may 	|  	|    	|
-| 8 	| 10-may 	|  Modelos de aprendizaje   clasificación y regresión usando scikit-learn 1 	|  	|
-| 8 	| 12-may 	|  Modelos de aprendizaje   clasificación y regresión usando scikit-learn 2 	|    	|
-| 8 	| 14-may 	|  	|  	|
-| Receso  	| Semana 21 Mayo 	|  	|  	|
-| 9 	| 24-may 	|  Selección de atributos. Selección   de modelos en scikit usando Grid search.  	|  Entrega Tarea 1. 	|
-| 9 	| 26-may 	|  Scikit, spacy y gensim para   procesamiento de texto  	|    	|
-| 9 	| 28-may 	|  	| Lab 3. 	|
-| 10 	| 31-may 	|  Horario de Consultas 	|  	|
-| 10 	| 02-jun 	|    Intro a modelos probabilísticos con pymc3	|   	|
-| 10 	| 04-jun 	|  	| Entrega Lab 3. 	|
-| 11 	| 07-jun 	|  Benchmark y Optimización de código	|  	|
-| 11 	| 09-jun 	|  Numba y JIT, Paralelismo y Corutinas, Dask y Joblib  	|    	|
-| 11 	| 11-jun 	|  	|  Lab 4. 	|
-| 12 	| 14-jun 	|  Intro a Redes Neuronales.   	|     	|
-| 12 	| 16-jun 	| Pytorch: Tensores, Datasets and   DataLoaders, definición de modelos simples.	|    	|
-| 12 	| 18-jun 	|  	|   	|
-| 13 	| 21-jun 	|  Feriado    	|     Publicación Tarea 2.	|
-| 13 	| 23-jun 	|   Arquitectura cliente servidor y microservicios. Flask.  	|   	|
-| 13 	| 25-jun 	| |Entrega Lab   4.  Lab 5.  	|
-| Receso  	| Semana 28 Junio 	|  	|  	|
-| 14 	| 05-jul 	|  Contenedores, Despliege y Nube   	|  Entrega tarea 2. Publicación Tarea   3. 	|
-| 14 	| 07-jul 	| Dashboard con Dash.	|    	|
-| 14 	| 09-jul 	|  Cierre del curso - Sesión de Retroalimentación  ☕.	| Entrega Lab 5. 	|
-|  Exámenes  	|   12 Julio a 31 de Julio  	|     	|  Lab 6 |
+| Semana | Tema | Fecha | Detalle | Evaluación |
+|---|---|---|---|---|
+| 1 | Introducción a las herramientas para Ciencia de los Datos. | 16-ago | Introducción al curso. IDEs   (vscode y Jupyter) uso de linters, formatter y debugger y Ambientes con   Conda. |   |
+| 1 |  | 18-ago | Control de versiones (git) |   |
+| 1 |   | 20-ago |   | Lab 0 (Sin Nota): Repaso Python   - Sintaxis, variables, operadores, tipos de datos, condicionales, ciclos,   funciones, scopes. |
+| 2 |   | 23-ago | Python 1:   Programación Funcional |   |
+| 2 |  | 25-ago | Python 2: Programación Orientada   a Objetos |   |
+| 2 |   | 27-ago |   | Lab 1: Python y Git. |
+| Semana Olímpica |   |   |   |   |
+| 3 |   | 06-sept | Python 3:   Librerías y útiles de Python.  |   |
+| 3 |  | 08-sept | Computación científica con Numpy   y Scipy |   |
+| 3 |   | 10-sept |   | Lab 2: Numpy e Imágenes |
+| Fiestas   Patrias |  |  |  |   |
+| 4 | Manejo de Datos con Pandas y AED. | 20-sept | Pandas 1: Introducción a datos   tabulares y pandas. I/O, Indexación y operaciones básicas. |   |
+| 4 |  | 22-sept | Pandas 2: Agregaciones. |   |
+| 4 |   | 24-sept | 1 | Lab 3: Manejo de datos con   Pandas |
+| 5 |   | 27-sept | Pandas 3:   Concatenaciones y Merge. Datos Categóricos y Temporales. |   |
+| 5 |  | 29-sept | Análisis exploratorio de Datos   con Pandas y Pandas Profiling. |   |
+| 5 |   | 01-oct |   | Lab 4: Merge y Concantenación. |
+| 6 |   | 04-oct | Visualizaciones interactivas   usando Plotly. Visualizaciones de datos en baja dimensionalidad. |   |
+| 6 |  | 06-oct | Introducción a Scikit-learn:   Interfaces, Preprocesamiento y Pipelines de Datos. |   |
+| 6 |   | 08-oct |  | Lab 5: EDA con Pandas y Plotly |
+| 7 | Preparación de Datos y Modelos de Aprendizaje Automático. | 11-oct | Feriado. |   |
+| 7 |  | 13-oct | Trabajo con datos faltantes   usando scikit-learn.  |   |
+| 7 |   | 15-oct |   |   |
+| 8 |   | 18-oct | Detección de   outliers. Subsampling y Oversampling con imbalanced-learn. |   |
+| 8 |  | 20-oct | Clustering |   |
+| 8 |   | 22-oct |   | Lab 6: Preprocesamiento |
+| 9 |   | 25-oct | Modelos de   aprendizaje usando scikit-learn 1 |   |
+| 9 |  | 27-oct | Modelos de aprendizaje usando   scikit-learn 2 |   |
+| 9 |   | 29-oct |   | Lab 7: Clasificadores y   Regresores |
+| Receso   Académico |  |  |   |   |
+| 10 |   | 08-nov | Selección de atributos y   reducción de Dimensionalidad. Selección de modelos en scikit usando Grid   search. |   |
+| 10 |  | 10-nov | Clasificación de texto. |   |
+| 10 |   | 12-nov |   | Lab 8: Grid Search y   Clasificación de Texto |
+| 11 | Modelos Avanzados. | 15-nov | Intro a Redes   Neuronales. |   |
+| 11 |  | 17-nov | Pytorch: Tensores, Datasets and   DataLoaders, definición de modelos simples. |   |
+| 11 |   | 19-nov |   | Lab 9: Pytorch. Proyecto |
+| 12 |   | 22-nov | Modelos   estadísticos 1. |   |
+| 12 |  | 24-nov | Modelos estadísticos 2. |   |
+| 12 |   | 26-nov |   | Lab (Tentativo) |
+| 13 | Optimización de   Código y Despliegue. | 29-nov | Benchmark y   Optimización de código. |   |
+| 13 |  | 01-dic | Numba y JIT, Paralelismo y   Corutinas, Dask y Joblib. |   |
+| 13 |   | 03-dic |   | Lab 10: Benchmark |
+| 14 |   | 06-dic | Arquitectura   cliente servidor y microservicios. FastAPI. |   |
+| 14 |  | 08-dic | Feriado. |   |
+| 14 |   | 10-dic | Contenedores, Despliege y Nube. |   |
+| Exámenes |  | 13 al 23 de Diciembre |   | Lab 11: API. Entrega Proyecto |
+|  |  |  |  | Cierre del curso - Sesión de   Retroalimentación ☕. |
