@@ -8,7 +8,6 @@ from fastapi import FastAPI
 app = FastAPI()
 
 personas = [
-    {"nombre": "Diego Irarrázaval", "equipo_docente": True, "alumno": False},
     {"nombre": "Ignacio Meza", "equipo_docente": True, "alumno": False},
     {"nombre": "Maria Perez", "equipo_docente": False, "alumno": True},
     {"nombre": "Juanito Perez", "equipo_docente": False, "alumno": True},
