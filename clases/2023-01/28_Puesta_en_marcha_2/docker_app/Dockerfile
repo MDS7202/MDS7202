@@ -1,6 +1,4 @@
-# syntax=docker/dockerfile:1
-
-FROM python:3.8-slim-buster
+FROM python:3.10-slim-buster
 
 # fijamos /app como la ruta en la que trabajaremos
 WORKDIR /app

@@ -8,6 +8,12 @@ $ cd clases/2023-01/28_Puesta_en_marcha_2/docker_app
 $ docker build --tag predictor-iris .
 ```
 
+- Para ver las imágenes creadas:
+
+```bash
+$ docker images
+```
+
 - Para crear un contenedor (ejecutar la imagen recién creada):
 
 ````bash
@@ -35,3 +41,5 @@ docker rm -f <nombre de la imagen (ver ps)>
 # --publish , -p <port_1:port_2> indica que el puerto de la imagen será expuesto al puerto del host
 $ docker run -p 8000:8000 predictor-iris
 ```
+
+- Ver el cheatsheet para el resto de operaciones.
