@@ -8,10 +8,13 @@ app = FastAPI()
 
 # decorador que indica el método de la llamada (get).
 # este permite registrar que cualquier get que llegue a '/' sea respondido por esta función.
+
+
 @app.get("/")
 async def root():
     # retornamos directamente el contenido.
     # pero aquí puede haber una predicción de algún modelo,
+
     return {"message": "Hola a todes!! 😄😄😄"}
 
 

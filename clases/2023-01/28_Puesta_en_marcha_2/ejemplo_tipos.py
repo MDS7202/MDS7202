@@ -1,3 +1,6 @@
+from typing import List
+
+
 def unir_nombre(primer_nombre, apellido):
     return primer_nombre + apellido
 
@@ -26,3 +29,5 @@ def unir_nombre_4(primer_nombre: str, apellido: str, edad: int) -> str:
 
 
 a = unir_nombre_4("juanito", "perez", 3)
+
+lista: List[float] = ["1"]
