@@ -4,9 +4,9 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 
 Equipo docente 🧑‍🏫:
 
-- Profesores: [Pablo Badilla](https://github.com/pbadillatorrealba), [Ignacio Meza](https://github.com/Mezosky).
+- Profesores: [Gabriel Iturra](https://github.com/giturra), [Ignacio Meza](https://github.com/Mezosky).
 - Auxiliar: [Sebastián Tinoco](https://github.com/sebatinoco)
-- Ayudantes: [Diego Cortez](https://github.com/dncortez), [Felipe Arias](https://github.com/FelipeAriasT).
+- Ayudantes: .
 
 
 Y links de interés 🗓️:
@@ -33,6 +33,9 @@ Y links de interés 🗓️:
 
 Muchas gracias por su participación y su excelente disposición!
 
+- [Pablo Badilla](https://github.com/pbadillatorrealba): Profesor ilustre del ramo desde 2021-Otoño a 2023-Otoño.
 - Constanza F. Peña - 2021-Primavera.
 - Diego Irarrázaval Infante - 2021-Otoño.
 - Patricio Ortiz Vargas - 2022-Primavera.
+- [Diego Cortez](https://github.com/dncortez) - 2023-Otoño.
+- [Felipe Arias](https://github.com/FelipeAriasT) - 2023-Otoño.
