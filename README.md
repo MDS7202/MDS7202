@@ -6,7 +6,7 @@ Equipo docente 🧑‍🏫:
 
 - Profesores: [Gabriel Iturra](https://giturra.cl/), [Ignacio Meza](https://github.com/Mezosky).
 - Auxiliar: [Sebastián Tinoco](https://github.com/sebatinoco)
-- Ayudantes: .
+- Ayudantes: Arturo Lazcano, Angelo Muñoz
 
 
 Y links de interés 🗓️:
