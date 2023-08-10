@@ -26,7 +26,6 @@ Y links de interés 🗓️:
 ## Canales de comunicación 📞
 
 - Foro de ucursos para cualquier duda de los contenidos del curso y administrativas. Todos los mails con consultas al equipo docente serán redirigidos al foro. Idea detrás de esto: La colaboración entre equipos.
-- Discord: Laboratorios.
 - Github: Cátedras y calendario.
 
 ## Equipo Docente Histórico 🌠
