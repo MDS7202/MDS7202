@@ -38,3 +38,4 @@ Muchas gracias por su participación y su excelente disposición!
 - Patricio Ortiz Vargas - 2022-Primavera.
 - [Diego Cortez](https://github.com/dncortez) - 2023-Otoño.
 - [Felipe Arias](https://github.com/FelipeAriasT) - 2023-Otoño.
+    
