@@ -4,9 +4,9 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 
 Equipo docente 🧑‍🏫:
 
-- Profesores: [Gabriel Iturra](https://giturra.cl/), [Ignacio Meza](https://github.com/Mezosky).
-- Auxiliar: [Sebastián Tinoco](https://github.com/sebatinoco)
-- Ayudantes: Arturo Lazcano, Angelo Muñoz
+- Profesores: [Ignacio Meza](https://github.com/Mezosky), [Sebastián Tinoco](https://github.com/sebatinoco)
+- Auxiliar: Catherine Benavides
+- Ayudantes: [Eduardo Moya](https://github.com/eduardomoyab), Nicolás Ojeda
 
 
 Y links de interés 🗓️:
@@ -33,6 +33,7 @@ Y links de interés 🗓️:
 Muchas gracias por su participación y su excelente disposición!
 
 - [Pablo Badilla](https://github.com/pbadillatorrealba): Profesor ilustre del ramo desde 2021-Otoño a 2023-Otoño.
+- [Gabriel Iturra](https://giturra.cl/): Profesor del ramo - Primavera 2023
 - Constanza F. Peña - 2021-Primavera.
 - Diego Irarrázaval Infante - 2021-Otoño.
 - Patricio Ortiz Vargas - 2022-Primavera.
