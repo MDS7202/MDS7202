@@ -1,12 +1,12 @@
-# MDS7202 - Primavera 2023 🍃
+# MDS7202 - Otoño 2024 🍃
 
 Repositorio del curso Laboratorio de Programación Científica para Ciencia de Datos.
 
 Equipo docente 🧑‍🏫:
 
 - Profesores: [Ignacio Meza](https://github.com/Mezosky), [Sebastián Tinoco](https://github.com/sebatinoco)
-- Auxiliar: Catherine Benavides
-- Ayudantes: [Eduardo Moya](https://github.com/eduardomoyab), Nicolás Ojeda
+- Auxiliar: [Catherine Benavides](https://github.com/catherine-benavides-mena)
+- Ayudantes: [Eduardo Moya](https://github.com/eduardomoyab),[ Nicolás Ojeda](https://github.com/nicolasojedag)
 
 
 Y links de interés 🗓️:
@@ -21,7 +21,7 @@ Y links de interés 🗓️:
 - Los laboratorios serán realizados en horario de auxiliar.
 - Como en un entorno real, la colaboración es fundamental para resolver problemas. Por lo mismo, todas las evaluaciones serán grupales.
 - El objetivo es que aprendan a medida que implementan. Por lo mismo, está prohibida la copia.
-- Mayor información y reglas detalladas: [Introducción al curso](https://github.com/pbadillatorrealba/MDS7202/raw/main/clases/2023-01/01_Introduccion_y_Reglas.pdf)
+- Mayor información y reglas detalladas: [Introducción al curso](https://github.com/pbadillatorrealba/MDS7202/raw/main/clases/2024-01/01_Presentacion_del_Curso.pdf)
 
 ## Canales de comunicación 📞
 
@@ -32,11 +32,13 @@ Y links de interés 🗓️:
 
 Muchas gracias por su participación y su excelente disposición!
 
-- [Pablo Badilla](https://github.com/pbadillatorrealba): Profesor ilustre del ramo desde 2021-Otoño a 2023-Otoño.
+- [Pablo Badilla](https://github.com/pbadillatorrealba): Profesor ilustre del ramo desde Otoño 2024 a Otoño 2023.
 - [Gabriel Iturra](https://giturra.cl/): Profesor del ramo - Primavera 2023
-- Constanza F. Peña - 2021-Primavera.
-- Diego Irarrázaval Infante - 2021-Otoño.
-- Patricio Ortiz Vargas - 2022-Primavera.
-- [Diego Cortez](https://github.com/dncortez) - 2023-Otoño.
-- [Felipe Arias](https://github.com/FelipeAriasT) - 2023-Otoño.
+- Constanza F. Peña - Primavera 2024.
+- Diego Irarrázaval Infante - Otoño 2024.
+- Patricio Ortiz Vargas - Primavera 2022.
+- [Diego Cortez](https://github.com/dncortez) - Otoño 2023.
+- [Felipe Arias](https://github.com/FelipeAriasT) - Otoño 2023.
+- Arturo Lazcano - Primavera 2023
+- Angelo Muñoz - Primavera 2023
     
