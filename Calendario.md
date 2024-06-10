@@ -35,17 +35,18 @@
 | 11       |                                 | 29-05-2024 | Selección de Features                  |           |                                         |
 | 11       |                         | 31-05-2024 |        |           |              Lab 10: Selección de Features y SHAP     |
 | 12       |      Agentes Autónomos        | 03-06-2024 | Introducción a Agentes Autónomos: Aprendizaje Reforzado  |                                                                                   |                                         |
-| 12       |                                                                   | 05-06-2024 | LLM        |           |                                         |
-| 12       |                                                                   | 07-06-2024 |                    |                  |                Lab 11: Agentes Autónomos          |
-|     13     |      MLOps      | 10-06-2024 |         Introducción a MLOps            |             |       |
-|    13      |                | 12-06-2024 |                    Containers + Despliegue    |                                                                         |                                         |
-|     13     |                                                                   | 14-06-2024 |                        |         |         Lab 12: MLFlow y FastAPI                       |
+| 12       |                                                                   | 05-06-2024 | LLM 1        |           |                                         |
+| 12       |                                                                   | 07-06-2024 |                    |                  |             Sin lab             |
+| 12       |                                                                   | 10-06-2024 | LLM 2        |           |                                         |
+|     13     |      MLOps      | 12-06-2024 |         Introducción a MLOps            |             |       |
+|     13     |                                                                   | 14-06-2024 |                        |         |         Lab 11: Agentes Autónomos                       |
 |          |     <i>Receso Académico</i>   | 17-06-2024 | <i>Receso Académico</i>                                                                                                                 |          |                                         |
-|          |                         | 19-06-2024 | <i>Receso Académico</i>                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                         |                                         |
+|          |    | 19-06-2024 | <i>Receso Académico<i>  | |                                         |
 |          |                                                                   | 21-06-2024 | <i>Receso Académico</i>                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                         |                                         |
-|   14       |           | 24-06-2024 |       Pipelines productivos       |                                                                                                                                                                                                                                                                                                                                                         |                                         |
-| 14       |     | 26-06-2024 | Monitoreo                |                                         |
-| 15       |                  | 01-07-2024 |    Charla: Invitado de la industria                                 |                    |  |
-| 15       |   Cierre del curso     | 03-07-2024 |           Feedback                   |                          |                                         |
+|   14       |           | 24-06-2024 |       Despliegue       | | |
+|   14       |           | 26-06-2024 |       Pipelines productivos    | | |
+|   14       |           | 28-06-2024 |           | | (Opcional) Lab 12: MLOps |
+| 14       |     | 01-07-2024 | Monitoreo   |   |
+| 15       |   Cierre del curso  | 03-07-2024 |    Charla y Feedback   |                    |  |
 |  Proyecto      |           | 08-07-2024 |      |         |                                         |
 |  Fin Período Exámenes      |                                                                  | 20-07-2024 |           |   |                                         |
