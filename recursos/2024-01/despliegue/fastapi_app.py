@@ -11,7 +11,7 @@ async def home():
     return {'Hello': 'World'}
 
 @app.get('/classroom') # ruta
-def home():
+def classroom():
     return {'Message': 'This is my first API :)'}
 
 # def predict method
