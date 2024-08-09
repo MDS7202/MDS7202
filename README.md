@@ -1,12 +1,12 @@
-# MDS7202 - Otoño 2024 🍃
+# MDS7202 - Primavera 2024 🍃
 
 Repositorio del curso Laboratorio de Programación Científica para Ciencia de Datos.
 
 Equipo docente 🧑‍🏫:
 
 - Profesores: [Ignacio Meza](https://github.com/Mezosky), [Sebastián Tinoco](https://github.com/sebatinoco)
-- Auxiliar: [Catherine Benavides](https://github.com/catherine-benavides-mena)
-- Ayudantes: [Eduardo Moya](https://github.com/eduardomoyab),[ Nicolás Ojeda](https://github.com/nicolasojedag)
+- Auxiliar: [Eduardo Moya](https://github.com/eduardomoyab)
+- Ayudantes: [Nicolás Ojeda](https://github.com/nicolasojedag), [Melanie Peña](https://github.com/melaniejalea), [Valentina Rojas](https://github.com/vrojasosorio)
 
 
 Y links de interés 🗓️:
@@ -41,4 +41,5 @@ Muchas gracias por su participación y su excelente disposición!
 - [Felipe Arias](https://github.com/FelipeAriasT) - Otoño 2023.
 - Arturo Lazcano - Primavera 2023
 - Angelo Muñoz - Primavera 2023
-    
+- [Catherine Benavides](https://github.com/catherine-benavides-mena) - Otoño 2024
+- Consuelo Rojas - Otoño 2024
