@@ -47,7 +47,7 @@
 |   14       |           | 20-11-2024 |       Dockerización    | | Remota |
 |   14       |           | 22-11-2024 |    Laboratorio       | Lab 12: MLOps|   |
 | 14       |     | 25-11-2024 | Pipelines productivos   |   | Remota
-| 15       |     | 03-07-2024 |    Monitoreo y Feedback   |                    | Presencial | 
-|   14       |           | 22-11-2024 |   Laboratorio        |Lab 13: Airflow |   |
+| 15       |     | 27-11-2024 |    Monitoreo y Feedback   |                    | Presencial | 
+|   14       |           | 29-11-2024 |   Laboratorio        |Lab 13: Airflow |   |
 |  Inicio Período Exámenes      |          | 02-12-2024 |           |   |                                         |
 |  Inicio Vacaciones      |          | 15-12-2024 |           |   |                                         |
