@@ -38,7 +38,7 @@
 |          |    | 30-10-2024 | <i>Receso Académico<i>  | |                                         |
 |          |                                                                   | 01-11-2024 | <i>Receso Académico</i>                                                                                                                 |    |                                         |
 | 12       |      Agentes Autónomos        | 04-11-2024 | Introducción a Agentes Autónomos: Aprendizaje Reforzado  |                   |         Presencial                                |
-| 12       |                                                                   | 06-11-2024 | LLM 1        |           |    Remota                       |
+| 12       |                                                                   | 06-11-2024 | LLM 1        |           |    Presencial                       |
 | 12       |                                                                   | 08-11-2024 |       *Sin lab*             |                  |                          |
 | 12       |                                                                   | 11-11-2024 | LLM 2        |           |        Presencial                                 |
 |     13     |      MLOps      | 13-11-2024 |         Introducción a MLOps            |             |   Remota    | 
