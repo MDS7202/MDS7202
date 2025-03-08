@@ -1,10 +1,10 @@
-# MDS7202 - Primavera 2024 🍃
+# MDS7202 - Otoño 2025 🍃
 
 Repositorio del curso Laboratorio de Programación Científica para Ciencia de Datos.
 
 Equipo docente 🧑‍🏫:
 
-- Profesores: [Ignacio Meza](https://github.com/Mezosky), [Sebastián Tinoco](https://github.com/sebatinoco)
+- Profesores: [Sebastián Tinoco](https://github.com/sebatinoco), [Stefano Schiappacasse](https://github.com/Mezosky)
 - Auxiliar: [Eduardo Moya](https://github.com/eduardomoyab)
 - Ayudantes: [Nicolás Ojeda](https://github.com/nicolasojedag), [Melanie Peña](https://github.com/melaniejalea), [Valentina Rojas](https://github.com/vrojasosorio)
 
@@ -12,16 +12,16 @@ Equipo docente 🧑‍🏫:
 Y links de interés 🗓️:
 
 
-- [Calendario](https://github.com/pbadillatorrealba/MDS7202/blob/main/Calendario.md)
+- [Calendario](https://github.com/MDS7202/MDS7202/blob/main/Calendario.md)
 - [Playlist con las clases 2022-1 en Youtube](https://www.youtube.com/playlist?list=PLIaUi-1jO5b4PztTeatJFQO1QeQwGo3FS). Notar que los videos pueden estar desactualizados y las reglas pueden haber variado.
 
 ##  Reglas del curso 🖋️
 
-- Curso presencial. Todas las cátedras seran tutoriales de tecnologías aplicadas a Data Science.
-- Los laboratorios serán realizados en horario de auxiliar.
+- Curso híbrido. Todas las cátedras seran tutoriales de tecnologías aplicadas a Data Science.
+- Los laboratorios serán revisados en horario de auxiliar.
 - Como en un entorno real, la colaboración es fundamental para resolver problemas. Por lo mismo, todas las evaluaciones serán grupales.
 - El objetivo es que aprendan a medida que implementan. Por lo mismo, está prohibida la copia.
-- Mayor información y reglas detalladas: [Introducción al curso](https://github.com/pbadillatorrealba/MDS7202/raw/main/clases/2024-01/01_Presentacion_del_Curso.pdf)
+- Mayor información y reglas detalladas: [Introducción al curso](https://github.com/MDS7202/clases/2025-01/01_Presentacion_del_Curso.pdf)
 
 ## Canales de comunicación 📞
 
@@ -43,3 +43,5 @@ Muchas gracias por su participación y su excelente disposición!
 - Angelo Muñoz - Primavera 2023
 - [Catherine Benavides](https://github.com/catherine-benavides-mena) - Otoño 2024
 - Consuelo Rojas - Otoño 2024
+- [Ignacio Meza](https://github.com/Mezosky) -  COMPLETAR PERIODO
+- AGREGAR AYUDANTES Y AUXILIARES DEL SEMESTRE PASADO 
