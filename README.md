@@ -4,7 +4,7 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 
 Equipo docente 🧑‍🏫:
 
-- Profesores: [Sebastián Tinoco](https://github.com/sebatinoco), [Stefano Schiappacasse](https://github.com/Mezosky)
+- Profesores: [Sebastián Tinoco](https://github.com/sebatinoco), [Stefano Schiappacasse](https://github.com/stefanoschiappacasse)
 - Auxiliar: [Eduardo Moya](https://github.com/eduardomoyab)
 - Ayudantes: [Nicolás Ojeda](https://github.com/nicolasojedag), [Melanie Peña](https://github.com/melaniejalea), [Valentina Rojas](https://github.com/vrojasosorio)
 
