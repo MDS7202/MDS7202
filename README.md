@@ -5,12 +5,11 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 Equipo docente 🧑‍🏫:
 
 - Profesores: [Sebastián Tinoco](https://github.com/sebatinoco), [Stefano Schiappacasse](https://github.com/stefanoschiappacasse)
-- Auxiliar: [Eduardo Moya](https://github.com/eduardomoyab)
-- Ayudantes: [Nicolás Ojeda](https://github.com/nicolasojedag), [Melanie Peña](https://github.com/melaniejalea), [Valentina Rojas](https://github.com/vrojasosorio)
+- Auxiliares: [Melanie Peña](https://github.com/melaniejalea), [Valentina Rojas](https://github.com/vrojasosorio)
+- Ayudantes: [Valentina Zúñiga](https://github.com/vazuniga1), Ángelo Muñoz
 
 
 Y links de interés 🗓️:
-
 
 - [Calendario](https://github.com/MDS7202/MDS7202/blob/main/Calendario.md)
 - [Playlist con las clases 2022-1 en Youtube](https://www.youtube.com/playlist?list=PLIaUi-1jO5b4PztTeatJFQO1QeQwGo3FS). Notar que los videos pueden estar desactualizados y las reglas pueden haber variado.
@@ -32,16 +31,28 @@ Y links de interés 🗓️:
 
 Muchas gracias por su participación y su excelente disposición!
 
-- [Pablo Badilla](https://github.com/pbadillatorrealba): Profesor ilustre del ramo desde Otoño 2024 a Otoño 2023.
-- [Gabriel Iturra](https://giturra.cl/): Profesor del ramo - Primavera 2023
-- Constanza F. Peña - Primavera 2024.
-- Diego Irarrázaval Infante - Otoño 2024.
-- Patricio Ortiz Vargas - Primavera 2022.
-- [Diego Cortez](https://github.com/dncortez) - Otoño 2023.
-- [Felipe Arias](https://github.com/FelipeAriasT) - Otoño 2023.
-- Arturo Lazcano - Primavera 2023
-- Angelo Muñoz - Primavera 2023
+### Profesores
+
+- [Ignacio Meza](https://github.com/Mezosky) - Otoño 2023 a Primavera 2024
+- [Gabriel Iturra](https://giturra.cl/) - Primavera 2023
+- [Mauricio Araneda](https://github.com/maranedah) - Primavera 2022
+- [Matías Rojas](https://github.com/matirojasg) - Primavera 2022
+- [Pablo Badilla](https://github.com/pbadillatorrealba) - Otoño 2021 a Otoño 2023.
+
+### Auxiliares y Ayudantes
+
+- [Eduardo Moya](https://github.com/eduardomoyab) - Otoño 2024 a Primavera 2024
+- [Nicolás Ojeda](https://github.com/nicolasojedag) - Otoño 2024 a Primavera 2024
 - [Catherine Benavides](https://github.com/catherine-benavides-mena) - Otoño 2024
 - Consuelo Rojas - Otoño 2024
-- [Ignacio Meza](https://github.com/Mezosky) -  COMPLETAR PERIODO
-- AGREGAR AYUDANTES Y AUXILIARES DEL SEMESTRE PASADO 
+- Arturo Lazcano - Primavera 2023
+- Angelo Muñoz - Primavera 2023
+- [Diego Cortez](https://github.com/dncortez) - Otoño 2023.
+- [Felipe Arias](https://github.com/FelipeAriasT) - Otoño 2023.
+- Patricio Ortiz Vargas - Primavera 2022.
+- Diego Irarrázaval Infante - Otoño 2022.
+- Constanza F. Peña - Primavera 2021
+
+
+
+
