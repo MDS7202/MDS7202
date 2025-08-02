@@ -1,12 +1,12 @@
-# MDS7202 - Otoño 2025 🍃
+# MDS7202 - Primavera 2025 🍃
 
 Repositorio del curso Laboratorio de Programación Científica para Ciencia de Datos.
 
 Equipo docente 🧑‍🏫:
 
-- Profesores: [Sebastián Tinoco](https://github.com/sebatinoco), [Stefano Schiappacasse](https://github.com/stefanoschiappacasse)
-- Auxiliares: [Melanie Peña](https://github.com/melaniejalea), [Valentina Rojas](https://github.com/vrojasosorio)
-- Ayudantes: [Valentina Zúñiga](https://github.com/vazuniga1), Ángelo Muñoz
+- Profesores: [Gabriel Iturra](https://giturra.cl/), Diego Cortéz.
+- Auxiliares: [Melanie Peña](https://github.com/melaniejalea), [Valentina Rojas](https://github.com/vrojasosorio).
+- Ayudantes: Nicolas Urbina, Cristopher Urbina.
 
 
 Y links de interés 🗓️:
@@ -33,8 +33,9 @@ Muchas gracias por su participación y su excelente disposición!
 
 ### Profesores
 
+- [Sebastián Tinoco](https://github.com/sebatinoco)
+- [Stefano Schiappacasse](https://github.com/stefanoschiappacasse) - Semestre Otoño 2025.
 - [Ignacio Meza](https://github.com/Mezosky) - Otoño 2023 a Primavera 2024
-- [Gabriel Iturra](https://giturra.cl/) - Primavera 2023
 - [Mauricio Araneda](https://github.com/maranedah) - Primavera 2022
 - [Matías Rojas](https://github.com/matirojasg) - Primavera 2022
 - [Pablo Badilla](https://github.com/pbadillatorrealba) - Otoño 2021 a Otoño 2023.
