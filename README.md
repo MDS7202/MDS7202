@@ -4,7 +4,7 @@ Repositorio del curso Laboratorio de Programación Científica para Ciencia de D
 
 Equipo docente 🧑‍🏫:
 
-- Profesores: [Gabriel Iturra](https://giturra.cl/), Diego Cortéz.
+- Profesores: [Gabriel Iturra](https://giturra.cl/), [Diego Cortéz](https://github.com/dncortez).
 - Auxiliares: [Melanie Peña](https://github.com/melaniejalea), [Valentina Rojas](https://github.com/vrojasosorio).
 - Ayudantes: Nicolas Urbina, Cristopher Urbina.
 
@@ -33,7 +33,7 @@ Muchas gracias por su participación y su excelente disposición!
 
 ### Profesores
 
-- [Sebastián Tinoco](https://github.com/sebatinoco)
+- [Sebastián Tinoco](https://github.com/sebatinoco) - Otoño 2023 a Otoño 2025.
 - [Stefano Schiappacasse](https://github.com/stefanoschiappacasse) - Semestre Otoño 2025.
 - [Ignacio Meza](https://github.com/Mezosky) - Otoño 2023 a Primavera 2024
 - [Mauricio Araneda](https://github.com/maranedah) - Primavera 2022
@@ -42,12 +42,13 @@ Muchas gracias por su participación y su excelente disposición!
 
 ### Auxiliares y Ayudantes
 
+- Valentina Zuñiga - Otoño 2025.
 - [Eduardo Moya](https://github.com/eduardomoyab) - Otoño 2024 a Primavera 2024
 - [Nicolás Ojeda](https://github.com/nicolasojedag) - Otoño 2024 a Primavera 2024
 - [Catherine Benavides](https://github.com/catherine-benavides-mena) - Otoño 2024
 - Consuelo Rojas - Otoño 2024
 - Arturo Lazcano - Primavera 2023
-- Angelo Muñoz - Primavera 2023
+- Angelo Muñoz - Primavera 2023 y Otoño 2025.
 - [Diego Cortez](https://github.com/dncortez) - Otoño 2023.
 - [Felipe Arias](https://github.com/FelipeAriasT) - Otoño 2023.
 - Patricio Ortiz Vargas - Primavera 2022.
