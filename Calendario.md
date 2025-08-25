@@ -42,7 +42,7 @@
 | 12       |                               | 05-11-2025 | Introducción a Agentes Autónomos: Aprendizaje Reforzado  | | Remota    |
 | 12       |                               | 07-11-2025 | Auxiliar 10                                                      | Consultas Lab 10. Interrogatorio Lab 9. | Remota        |    11-11-2025    |
 | 13       |                               | 10-11-2025 | LLM                                                              |                                                                         | Remota    |             |
-| 13       |                               | 12-11-2025 | FIN DE CLASES                                                    |                                                                         | Lab 11: RL & LLMs           |             |
+| 13       |                               | 12-11-2025 | FIN DE CLASES                                                    |                                                                         |                |             |
 | 13       |                               | 14-11-2025 | Auxiliar 11                                                      | Consultas Lab 11. Interrogatorio Lab 10. | Remota |  18-11-2025  |
 | 14       |                               | 21-11-2025 | Auxiliar 12 | Interrogatorio Lab 11 | Remota | |
 | Inicio Período Exámenes                                                    |          | 01-12-2025 |                                                                  |                                                                         |               |             |
