@@ -7,3 +7,5 @@ nbformat
 scikit-learn
 umap-learn
 matplotlib
+yellowbrick
+pycaret
