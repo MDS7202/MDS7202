@@ -1,4 +1,11 @@
-numpy==2.0.1
-pandas==2.2.2
+numpy
+pandas
 pytz==2024.1
 tzdata==2024.1
+plotly
+nbformat
+scikit-learn
+umap-learn
+matplotlib
+yellowbrick
+pycaret
