@@ -26,7 +26,7 @@
 | 8        |       Interpretabilidad       | 29-09-2025 | Interpretabilidad 1                                              | Introducción a la Interpretabilidad  | Presencial    |             |
 | 8        |                               | 01-10-2025 | Interpretabilidad 2                                              | Métodos para la interpretabilidad de modelos.                           | Remota    | 
 | 8        |                               | 03-10-2025 | Auxiliar 06                                                      | Consultas Lab 6. Interrogatorio Lab 5.  | Remota        |   07-10-2025   |
-| 9        | MLOps                         | 06-10-2025 | Introducción a MLOps                                             |                                                                         | Presencial    |             |
+| 9        | MLOps                         | 06-10-2025 | Introducción a MLOps                                             |                                                                         | Remota    |             |
 | 9        |                               | 08-10-2025 | Despliegue                                    | FastAPI + Gradio                                                       | Remota        |  
 | 9        |                               | 10-10-2025 | Auxiliar 07                                                      | Consultas Lab 7. Interrogatorio Lab 6.  | Remota        |   14-10-2025   |
 | 10       |                               | 13-10-2025 | Docker                                                           |                                                                         | Presencial        |             |
