@@ -1,0 +1,12 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../persist_files_example_2:/data
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "7860:7860"
