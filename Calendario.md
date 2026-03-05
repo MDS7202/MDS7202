@@ -12,9 +12,9 @@
 |7. Continuación análisis y manejo de datos                                             |30 Marzo|                                |
 |8. EDA & Visualizaciones                                                               |1 Abril |                                |
 |FERIADO                                                                                |3 Abril |                                |
-|RECESO?                                                                                |6 Abril |                                |
-|RECESO?                                                                                |8 Abril |                                |
-|RECESO?                                                                                |10 Abril|                                |
+|RECESO                                                                                 |6 Abril |                                |
+|RECESO                                                                                 |8 Abril |                                |
+|RECESO                                                                                 |10 Abril|                                |
 |9. Introducción a Machine Learning, Feature engineering 1                              |13 Abril|                                |
 |10. Feature Engineering 2                                                              |15 Abril|                                |
 |Laboratorio 4                                                                          |17 Abril|                                |
