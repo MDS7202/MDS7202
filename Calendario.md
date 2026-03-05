@@ -1,49 +1,50 @@
-| Semana   | Módulo                        | Fecha clase/lab   | Temas                                                                                                    | Detalle                                                                 | Modalidad      |     Entrega Lab     |
-|----------|-------------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------|--------|
-| 1        | Introducción al curso         | 06-08-2025 | Introducción al curso.                                           | Presentación del curso y especificaciones de las reglas del curso.      | Remota    |             |
-| 1        |                               | 08-08-2025 | NO HAY AUX                                                       |                                                                         |               |             |
-| 2        |                               | 11-08-2025 | NO HAY CLASES                                                    |                                                                         |               |             |
-| 2        | Fundamentos de Programación científica   | 13-08-2025 | Control de versiones con Git                                     | Fundamentos de Git, repositorios, ciclos de vida de los archivos en un repositorio, Commits, Branches y colaboración en repositorios remotos. | Remota    |             |
-| 2        |                               | 15-08-2025 | *Feriado*                                                        |                                                                         |               |             |
-| 3        |                               | 18-08-2025 | Programación Orientada a Objetos                                 | Clases, objetos, constructores, abstracción y encapsulación, herencia, polimorfismo. Excepciones y manejo de estas. | Remota        |          |
-| 3        |                               | 20-08-2025 | Arreglos Multidimensionales con Numpy                            | Creación de arreglos multidimensionales, vectorización de operaciones, atributos de los arreglos, indexado, operaciones básicas, documentación, funciones universales. | Remota        | 
-| 3        |                               | 22-08-2025 | Auxiliar 01                                                      | Consultas Lab 1.                | Remota        |  26-08-2025 |
-| 4        |                               | 25-08-2025 | Pyspark                                                          | Fundamentos de Pyspark y operaciones con DataFrames.                     | Online    |            |
-| 4        |                               | 27-08-2025 | Feature Engineering                                              | Escalamiento, codificación de variables, ColumnTransformer, Pipeline, tratamiento de datos faltantes, Data Leakages. | Remota    | 
-| 4        |                               | 29-08-2025 | Auxiliar 02                                                      | Consultas Lab 2. Interrogatorio Lab 1.  | Remota        |     02-09-2025       |
-| 5        | Machine Learning              | 01-09-2025 | Aprendizaje No Supervisado 1 | Clustering y tipos de técnicas de clustering (particional, difuso y jerárquico), k-means (algoritmo y búsqueda de clusters óptimos), hdbscan. | Remota        |                  |
-| 5        |                               | 03-09-2025 | Aprendizaje No Supervisado 2                                    | Introducción al aprendizaje no supervisado. Visualización de datos en baja dimensionalidad usando PCA y UMAP. Detección automática de outliers usando DBSCAN e IsolationTree. | Remota        |  
-| 5        |                               | 05-09-2025 | Auxiliar 03                                                      | Consultas Lab 3. Interrogatorio Lab 2.  | Remota        |    09-09-2025    |
-| 6        |                               | 08-09-2025 | Introducción a Aprendizaje Supervisado  | | Presencial    |             |
-| 6        |                               | 10-09-2025 | Boosting y Ensemble                                              |                                                                         | Remota        |
-| 6        |                               | 12-09-2025 | Auxiliar 04                                                      | Consultas Lab 4. Interrogatorio Lab 3.  | Remota        |    23-05-09    |
-|          | *Receso Académico*            | 15-09-2025 | *Receso Académico*                                               |                                                                         |               |             |
-|          |                               | 17-09-2025 | *Receso Académico*                                               |                                                                         |               |             |
-|          |                               | 19-09-2025 | *Receso Académico*                                               |                                                                         |               |             |
-| 7        |                               | 22-09-2025 | NO HAY CLASES                                                    |                                                                         |               |             |
-| 7        |                               | 24-09-2025 | Optimización de Hiperparámetros                                  | | Remota        |  
-| 7        |                               | 26-09-2025 | Auxiliar 05                                                      | Consultas Lab 5. Interrogatorio Lab 4.  | Remota        |    30-09-2025    |
-| 8        |       Interpretabilidad       | 29-09-2025 | Interpretabilidad 1                                              | Introducción a la Interpretabilidad  | Presencial    |             |
-| 8        |                               | 01-10-2025 | Interpretabilidad 2                                              | Métodos para la interpretabilidad de modelos.                           | Remota    | 
-| 8        |                               | 03-10-2025 | Auxiliar 06                                                      | Consultas Lab 6. Interrogatorio Lab 5.  | Remota        |   07-10-2025   |
-| 9        | MLOps                         | 06-10-2025 | Introducción a MLOps                                             |                                                                         | Remota    |             |
-| 9        |                               | 08-10-2025 | Despliegue                                    | FastAPI + Gradio                                                       | Remota        |  
-| 9        |                               | 10-10-2025 | Auxiliar 07                                                      | Consultas Lab 7. Interrogatorio Lab 6.  | Remota        |   14-10-2025   |
-| 10       |                               | 13-10-2025 | Docker                                                           |                                                                         | Presencial        |             |
-| 10       |                               | 15-10-2025 | Pipelines productivos           | Airflow                                                                 | Remota    | 
-| 10        |                               | 17-10-2025 | Auxiliar 08                                                      | Consultas Lab 8, Interrogatorio Lab 7.                                       | Remota        |    21-10-2025   |
-| 11       |                               | 20-10-2025 | Monitoreo y Feedback                                             |                                                                         | Remota    |             |
-| 11       | Tópicos de Machine Learning   | 22-10-2025 | Forecasting                   |                                                                         | Remota        | 
-| 11       |                               | 24-10-2025 | Auxiliar 09                                                      | Consultas Lab 9, Interrogatorio Lab 8                        | Remota        |    04-11-2025    |
-|          | *Receso Académico*            | 27-10-2025 | *Receso Académico*                                               |                                                                         |               |             |
-|          |                               | 29-10-2025 | *Receso Académico*                                               |                                                                         |               |             |
-|          |                               | 31-10-2025 | *Receso Académico*                                               |                                                                         |               |             |
-| 12       |                               | 03-11-2025 | Sistemas de Recomendación                                        |                                                                         | Presencial    |      |
-| 12       |                               | 05-11-2025 | Introducción a Agentes Autónomos: Aprendizaje Reforzado  | | Remota    |
-| 12       |                               | 07-11-2025 | Auxiliar 10                                                      | Consultas Lab 10. Interrogatorio Lab 9. | Remota        |    11-11-2025    |
-| 13       |                               | 10-11-2025 | LLM                                                              |                                                                         | Remota    |             |
-| 13       |                               | 12-11-2025 | FIN DE CLASES                                                    |                                                                         |                |             |
-| 13       |                               | 14-11-2025 | Auxiliar 11                                                      | Consultas Lab 11. Interrogatorio Lab 10. | Remota |  18-11-2025  |
-| 14       |                               | 21-11-2025 | Auxiliar 12 | Interrogatorio Lab 11 | Remota | |
-| Inicio Período Exámenes                                                    |          | 01-12-2025 |                                                                  |                                                                         |               |             |
-| Inicio Vacaciones                                                          |          | 15-12-2025 |                                                                  |                                                                         |               |             |
+|Clase                                                                                  |Fecha   |Módulo                          |
+|---------------------------------------------------------------------------------------|--------|--------------------------------|
+|1. Introducción al curso                                                               |9 Marzo |Introducción al curso           |
+|2. Herramientas y metodologías de desarrollo                                           |11 Marzo|Python                          |
+|Laboratorio 1                                                                          |13 Marzo|                                |
+|3. Paradígmas de programación                                                          |16 Marzo|                                |
+|4. Manejo de arreglos multidimensionales                                               |18 Marzo|                                |
+|Laboratorio 2                                                                          |20 Marzo|                                |
+|5. Introducción a análisis y manejo de datos                                           |23 Marzo|Fundamentos de análisis de datos|
+|6. Continuación análisis y manejo de datos                                             |25 Marzo|                                |
+|Laboratorio 3                                                                          |27 Marzo|                                |
+|7. Continuación análisis y manejo de datos                                             |30 Marzo|                                |
+|8. EDA & Visualizaciones                                                               |1 Abril |                                |
+|FERIADO                                                                                |3 Abril |                                |
+|RECESO?                                                                                |6 Abril |                                |
+|RECESO?                                                                                |8 Abril |                                |
+|RECESO?                                                                                |10 Abril|                                |
+|9. Introducción a Machine Learning, Feature engineering 1                              |13 Abril|                                |
+|10. Feature Engineering 2                                                              |15 Abril|                                |
+|Laboratorio 4                                                                          |17 Abril|                                |
+|11. Aprendizaje no supervisado 1: Clustering                                           |20 Abril|Machine Learning                |
+|12. Aprendizaje no supervisado 2: Reducción de dimensionalidad y detección de anomalías|22 Abril|                                |
+|Laboratorio 5                                                                          |24 Abril|                                |
+|13. Aprendizaje supervisado 1: Introducción y regresión                                |27 Abril|                                |
+|14. Aprendizaje supervisado 2: Clasificación                                           |30 Abril|                                |
+|Laboratorio 6                                                                          |1 Mayo  |                                |
+|15. Aprendizaje supervisado 3: Modelos clásicos                                        |4 Mayo  |                                |
+|16. Selección de features y optimización de hiperparámetros                            |6 Mayo  |                                |
+|FERIADO                                                                                |8 Mayo  |                                |
+|17. Boosting                                                                           |11 Mayo |                                |
+|18. Interpretabilidad                                                                  |13 Mayo |                                |
+|Laboratorio 7                                                                          |15 Mayo |                                |
+|19. Machine Learning Engineering                                                       |18 Mayo |MLOps                           |
+|20. Optimización de rendimiento: paralelísmo y asincronía                              |20 Mayo |                                |
+|Laboratorio 8                                                                          |22 Mayo |                                |
+|RECESO                                                                                 |25 Mayo |                                |
+|RECESO                                                                                 |27 Mayo |                                |
+|RECESO                                                                                 |29 Mayo |                                |
+|21. Operacionalización y servicios                                                     |1 Junio |                                |
+|22. Containerización y nociones cloud                                                  |3 Junio |                                |
+|Laboratorio 9                                                                          |5 Junio |                                |
+|23. Pipelines y orquestación                                                           |8 Junio |                                |
+|SIN CLASE                                                                              |10 Junio|                                |
+|Laboratorio 10                                                                         |12 Junio|                                |
+|24. Introducción a LLMs                                                                |15 Junio|Agentic AI                      |
+|25. Embeddings y RAG                                                                   |17 Junio|                                |
+|Laboratorio 11                                                                         |19 Junio|                                |
+|26. Agentes                                                                            |22 Junio|                                |
+|SIN CLASE                                                                              |24 Junio|                                |
+|Laboratorio 12                                                                         |26 Junio|                                |
