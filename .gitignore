@@ -3,6 +3,8 @@ activate.bat
 data_proyecto.zip
 pyproject.toml
 uv.lock
+clases/2026-01/03_Introduccion_arreglos_multidimensionales_numpy.ipynb
+clases/2026-01/04_Pandas_I.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
