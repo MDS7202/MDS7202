@@ -1,3 +1,9 @@
+# MDS7202
+activate.bat
+data_proyecto.zip
+pyproject.toml
+uv.lock
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
