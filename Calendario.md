@@ -20,7 +20,7 @@
 |Laboratorio 4                                                                          |17 Abril|                                |Online    |
 |11. Aprendizaje no supervisado 1: Clustering                                           |20 Abril|Machine Learning                |Presencial|
 |12. Aprendizaje no supervisado 2: Reducción de dimensionalidad y detección de anomalías|22 Abril|                                |Presencial|
-|Laboratorio 5                                                                          |24 Abril|                                |Presencial|
+|Laboratorio 5                                                                          |24 Abril|                                |Online    |
 |13. Aprendizaje supervisado 1: Introducción y regresión                                |27 Abril|                                |Online    |
 |14. Aprendizaje supervisado 2: Clasificación                                           |29 Abril|                                |Presencial|
 |FERIADO                                                                                |1 Mayo  |                                |          |
