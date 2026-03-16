@@ -19,7 +19,7 @@ Y links de interés 🗓️:
 - Curso híbrido. Todas las cátedras seran tutoriales de tecnologías aplicadas a Data Science.
 - Como en un entorno real, la colaboración es fundamental para resolver problemas. Por lo mismo, todas las evaluaciones serán grupales.
 - El objetivo es que aprendan a medida que implementan. Por lo mismo, está prohibida la copia.
-- Mayor información y reglas detalladas: _Por publicar_
+- Mayor información y reglas detalladas: [Introducción al curso](https://github.com/MDS7202/MDS7202/blob/main/clases/2026-01/01_Introducci%C3%B3n.pdf)
 
 ## Canales de comunicación 📞
 
