@@ -16,10 +16,10 @@ def make_prediction(
 
     # mantener el orden!
     features = [
-        [sepal_length, sepal_width, petal_length, petal_width]  # obs to predict
+        [sepal_length, sepal_width, petal_length, petal_width]  # obs a predecir, OJO con el orden!!
     ]
 
-    prediction = model.predict(features).item()  # make prediction
-    label = labels_dict[prediction]  # transform to label
+    prediction = model.predict(features).item()  # generar prediccion
+    label = labels_dict[prediction]  # transformar a etiqueta
 
-    return label  # return prediction
+    return label  # retornar prediccion
