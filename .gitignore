@@ -5,6 +5,8 @@ pyproject.toml
 uv.lock
 clases/2026-01/05_Pandas_I.ipynb
 labs/2026-1
+proyecto/
+*-comp-sb.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
