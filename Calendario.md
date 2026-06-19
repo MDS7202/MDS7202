@@ -45,6 +45,6 @@
 |24. Introducción a LLMs                                                                |15 Junio|Agentic AI                      |Presencial|
 |25. Embeddings y RAG                                                                   |17 Junio|                                |Online    |
 |Laboratorio 11 - LLMs                                                                  |19 Junio|                                |Online    |
-|26. Agentes                                                                            |22 Junio|                                |Presencial|
-|SIN CLASE                                                                              |24 Junio|                                |          |
-|Laboratorio 12 - Agentic AI                                                            |26 Junio|                                |Online    |
+|Enunciado Proyecto Final                                                               |22 Junio|                                |Online    |
+|26. Agentes                                                                            |24 Junio|                                | Online    |
+|Interrogaciones Laboratorio 9 y 10                                                     |26 Junio|                                |Online    |
